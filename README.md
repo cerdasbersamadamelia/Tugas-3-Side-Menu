@@ -13,7 +13,7 @@ Buatlah aplikasi serupa seperti gambar di atas, kemudian ubahlah:
 2.	Tampilkan sebuah gambar gedung UPBJJ tempat di mana pertama kali anda daftar ke Universitas Terbuka
 3.	Isilah tentang dengan [nim,nama dan UPBJJ]
 
-Kumpulkan no 1,2, dan 3 dalam bentuk screenshoot!
+Kumpulkan no 1, 2, dan 3 dalam bentuk screenshoot!
 
 Hasil Run:
 
