@@ -1,0 +1,7 @@
+{
+  "name": "Tugas3App",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
